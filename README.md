@@ -1,6 +1,6 @@
 # bmi
 
-A new Flutter application.
+A simple app to calculate BMI (body mass index) using your height and weight.
 
 ## Getting Started
 
